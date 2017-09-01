@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  TotalPrice: MyString
+  open: MyString
+  user: one
+
+two:
+  TotalPrice: MyString
+  open: MyString
+  user: two
